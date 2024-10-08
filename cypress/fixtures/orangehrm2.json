@@ -1,0 +1,16 @@
+[{
+    "username": "Admin",
+    "password":"admin123",
+    "loggedInUser":"Punched Out"
+},
+{
+    "username": "xyz",
+    "password":"admin123",
+    "loggedInUser":"Invalid credentials"
+},
+{
+    "username": "Admin",
+    "password":"xyz",
+    "loggedInUser":"Invalid credentials"
+}
+]
